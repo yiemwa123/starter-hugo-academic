@@ -66,4 +66,4 @@ email: ""
 highlight_name: false
 ---
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/wang_yichen_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
