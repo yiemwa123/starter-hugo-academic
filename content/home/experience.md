@@ -45,6 +45,15 @@ experience:
     date_end: '2021-08-13'
     description: Placeholder
 
+  - title: Undergraduate Research Assistant
+    company: Cornell University
+    # company_url: ''
+    # company_logo: org-x
+    # location: California
+    date_start: '2020-09-01'
+    date_end: '2021-05-10'
+    description: Placeholder
+
 design:
   columns: '2'
 ---
