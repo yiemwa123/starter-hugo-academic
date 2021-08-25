@@ -27,10 +27,13 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Research
+    tag: Research
+  - name: Class Projects
+    tag: Class Projects
+  - name: Case Study
+    tag: Case Study
+
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
