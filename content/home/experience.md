@@ -43,7 +43,7 @@ experience:
     # location: California
     date_start: '2021-06-07'
     date_end: '2021-08-13'
-    description: {Placeholder}
+    description: Placeholder
 
 design:
   columns: '2'
