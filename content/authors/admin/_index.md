@@ -14,7 +14,7 @@ organizations:
   # url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
@@ -65,5 +65,5 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/wang_yichen_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I'm currently a senior at Cornell University studying Information Science
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/wang_yichen_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
