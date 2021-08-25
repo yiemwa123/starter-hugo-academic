@@ -1,7 +1,8 @@
 ---
 title: Using Information Retrieval and Machine Learning to Inspire Curiosity Driven Learning For Children
 summary: Working on part of an app that can play "I Spy" games with children
-tags: 
+tags:
+- Research
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
