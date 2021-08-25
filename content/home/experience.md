@@ -32,9 +32,9 @@ experience:
     description: |2-
         Courses:
 
-        * INFO 4240: Designing Tech for Social Impact
-        * INFO 3450: Human-Computer Interaction Design
-        * INFO 1300: Introduction to Design and Programming for the Web
+        * INFO 4240: Designing Tech for Social Impact (Fall 2021)
+        * INFO 3450: Human-Computer Interaction Design (Spring 2021)
+        * INFO 1300: Introduction to Design and Programming for the Web (Fall 2020)
 
   - title: CRA DREU Research Assistant
     company: Dartmouth College
