@@ -43,7 +43,10 @@ experience:
     # location: California
     date_start: '2021-06-07'
     date_end: '2021-08-13'
-    description: Placeholder
+    description:
+          * Using Python to query and process commonsense knowledge concepts and generate questionanswer pairs from text for AISpy, an agent capable of playing “I Spy” games
+          * Designing strategies for incorporating user feedback and formulating output in a way that is
+          valuable to children when the system fails
 
   - title: Undergraduate Research Assistant
     company: Cornell University
@@ -52,7 +55,14 @@ experience:
     # location: California
     date_start: '2020-09-01'
     date_end: '2021-05-10'
-    description: Placeholder
+    description: |2-
+      Project: Understanding the User Experience of Machine Generated Language
+      * Conducted literature review on privacy in HCI and creepiness
+      * Helped plan semi-structured interview questions
+      |2-
+        Project: Understanding the Data Tracking Practices of Pregnant Women
+        * Conducted pilot interviews and analyzed interview transcript/notes
+
 
 design:
   columns: '2'
