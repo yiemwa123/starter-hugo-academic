@@ -65,6 +65,5 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I'm currently a senior at Cornell University studying Information Science
-{{< icon name="download" pack="fas" >}}
-Download my {{< staticref "uploads/wang_yichen_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+I'm currently a senior at Cornell University studying Information Science \
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/wang_yichen_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
