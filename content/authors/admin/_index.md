@@ -66,4 +66,5 @@ email: ""
 highlight_name: false
 ---
 I'm currently a senior at Cornell University studying Information Science
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/wang_yichen_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}}
+Download my {{< staticref "uploads/wang_yichen_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
