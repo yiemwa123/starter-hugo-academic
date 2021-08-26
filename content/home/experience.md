@@ -43,7 +43,7 @@ experience:
     # location: California
     date_start: '2021-06-07'
     date_end: '2021-08-13'
-    description:
+    description: |2-
         * Using Python to query and process commonsense knowledge concepts and generate questionanswer pairs from text for AISpy, an agent capable of playing “I Spy” games
         * Designing strategies for incorporating user feedback and formulating output in a way that is
           valuable to children when the system fails
