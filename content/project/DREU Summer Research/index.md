@@ -3,7 +3,7 @@ title: Using Information Retrieval and Machine Learning to Inspire Curiosity Dri
 summary: Working on part of an app that can play "I Spy" games with children
 tags:
 - Research
-date: "2016-04-27T00:00:00Z"
+date: "2021-06-07"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://yiemwa123.github.io/"
