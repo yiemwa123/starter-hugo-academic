@@ -58,8 +58,7 @@ experience:
     description: |2-
         Project: Understanding the User Experience of Machine Generated Language
         * Conducted literature review on privacy in HCI and creepiness
-        * Helped plan semi-structured interview questions
-        |2-
+        * Helped plan semi-structured interview questions /
         Project: Understanding the Data Tracking Practices of Pregnant Women
         * Conducted pilot interviews and analyzed interview transcript/notes
 
