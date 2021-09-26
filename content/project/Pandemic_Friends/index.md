@@ -3,7 +3,7 @@ title: ClubHack: Navigating Competitive Club Recruitment at Cornell
 summary: Helping New Students at Cornell Connect with People During the Pandemic
 tags:
 - Projects
-date: "2016-04-27T00:00:00Z"
+date: "2016-04-30T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
