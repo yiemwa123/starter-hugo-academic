@@ -70,9 +70,6 @@ experience:
         * Conducted literature review on privacy in HCI and creepiness
         * Helped plan semi-structured interview questions
 
-        Project: Understanding the Data Tracking Practices of Pregnant Women
-        * Conducted pilot interviews and analyzed interview transcript/notes
-
 
 design:
   columns: '2'
