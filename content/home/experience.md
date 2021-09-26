@@ -22,6 +22,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Undergraduate Research Assistant (Robots In Groups Lab)
+    company: Cornell University
+    # company_url: ''
+    # company_logo: org-x
+    # location: California
+    date_start: '2021-08-01'
+    date_end: ''
+    description: |4-
+
+
   - title: Teaching Assistant
     company: Cornell Computing and Information Science
     company_url: ''
@@ -48,18 +58,18 @@ experience:
         * Designing strategies for incorporating user feedback and formulating output in a way that is
           valuable to children when the system fails
 
-  - title: Undergraduate Research Assistant
+  - title: Undergraduate Research Assistant (Designing AI Lab)
     company: Cornell University
     # company_url: ''
     # company_logo: org-x
     # location: California
     date_start: '2020-09-01'
-    date_end: '2021-05-10'
+    date_end: '2021-12-10'
     description: |4-
         Project: Understanding the User Experience of Machine Generated Language
         * Conducted literature review on privacy in HCI and creepiness
         * Helped plan semi-structured interview questions
-        
+
         Project: Understanding the Data Tracking Practices of Pregnant Women
         * Conducted pilot interviews and analyzed interview transcript/notes
 
