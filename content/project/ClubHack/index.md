@@ -20,7 +20,7 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://youtu.be/P5jTWRI6U1A"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -44,9 +44,9 @@ User Research (Part I)
 We conducted interviews with 3 new undergraduate students to understand their current experiences with making friends on campus and what they look for in a friend.
 
 Key insights:
-Interviewees were limited to meeting friends through mutual connections.
-Interviewees reported preferring friends who shared the same interest, values and have genuine personalities. Most noted that they still value people with shared values over shared interests, but it is easier to connect if there are shared interests.
-Interviewees reported to use Facebook to add an extensive network of friends whereas Snapchat and Instagram were used to chat directly with a select group of friends, sometimes leading to in-person meetings. However, it is important to note that all interviewees used multiple different platforms to connect with people.
+* Interviewees were limited to meeting friends through mutual connections.
+* Interviewees reported preferring friends who shared the same interest, values and have genuine personalities. Most noted that they still value people with shared values over shared interests, but it is easier to connect if there are shared interests.
+* Interviewees reported to use Facebook to add an extensive network of friends whereas Snapchat and Instagram were used to chat directly with a select group of friends, sometimes leading to in-person meetings. However, it is important to note that all interviewees used multiple different platforms to connect with people.
 
 What is the current solution space missing?
 No virtual to in-person meet-up conversion in one solution
