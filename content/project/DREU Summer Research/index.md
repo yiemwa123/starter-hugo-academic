@@ -1,12 +1,12 @@
 ---
 title: Using Information Retrieval and Machine Learning to Inspire Curiosity Driven Learning For Children
-summary: Working on part of an app that can play "I Spy" games with children
+summary: Worked on part of an app that can play "I Spy" games with children
 tags:
 - Research
 date: "2021-06-07"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "uploads/finalreport.pdf" 
+external_link: ""
 
 # image:
 #   caption: Photo by rawpixel on Unsplash
@@ -18,7 +18,7 @@ links:
 #   name: Follow
 #   url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: ""
+url_pdf: "uploads/finalreport.pdf"
 url_slides: ""
 url_video: ""
 
@@ -29,3 +29,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+The report was written by me with guidance from Dr. Elizabeth Murnane, who mentored this project
