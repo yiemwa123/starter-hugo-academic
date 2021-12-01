@@ -6,7 +6,7 @@ tags:
 date: "2021-06-07"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://yiemwa123.github.io/"
+external_link: "uploads/finalreport.pdf" 
 
 # image:
 #   caption: Photo by rawpixel on Unsplash
