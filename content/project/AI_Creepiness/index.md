@@ -1,6 +1,6 @@
 ---
-title: Understand People's Perceptions of Creepiness When Interacting With Natural Language Generation (Coming Soon)
-summary:
+title: Understand People's Perceptions of Creepiness When Interacting With Natural Language Generation
+summary: Relevant Literature Review on Perceptions of Creepiness, Trust, and Privacy
 tags:
 - Research
 date: "2020-09-01"
