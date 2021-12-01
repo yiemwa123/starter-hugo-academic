@@ -6,7 +6,7 @@ tags:
 date: "2020-09-01"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "uploads/creepiness.pdf"
 
 # image:
 #   caption: Photo by rawpixel on Unsplash
