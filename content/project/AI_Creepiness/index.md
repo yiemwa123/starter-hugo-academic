@@ -1,6 +1,6 @@
 ---
 title: Understand People's Perceptions of Creepiness When Interacting With Natural Language Generation
-summary: Relevant Literature Review on Perceptions of Creepiness, Trust, and Privacy
+summary: This literature summary on trust, creepiness, and privacy was written by me and I was mentored by Dr. Qian Yang for this project.
 tags:
 - Research
 date: "2020-09-01"
@@ -29,5 +29,3 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
-This literature summary was written by me and I was mentored under Dr. Qian Yang.

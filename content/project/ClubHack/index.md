@@ -1,6 +1,6 @@
 ---
 title: ClubHack
-summary: Helping New Students Meet People During the Pandemic
+summary: This class project on helping new students meet people during the pandemic was done in collaboration with Richard Cho and Ying Yang. We divided the work evenly throughout each step of the design process, from problem ideation, user research, affinity diagramming, brainstorming, ideation, prototyping, heuristic evaluation, and user testing
 tags:
 - Projects
 date: "2016-04-27T00:00:00Z"
@@ -29,4 +29,3 @@ url_video: "https://youtu.be/P5jTWRI6U1A"
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-This was a class project done in collaboration with Richard Cho and Ying Yang. We divided the work evenly throughout each step of the design process, from problem ideation, user research, affinity diagramming, brainstorming, ideation, prototyping, heuristic evaluation, and user testing
