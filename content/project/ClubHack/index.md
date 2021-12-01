@@ -6,7 +6,7 @@ tags:
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "uploads/A5_Poster_Group13.jpeg"
+external_link: ""
 
 # image:
 #   caption: Photo by rawpixel on Unsplash
@@ -18,7 +18,7 @@ links:
 #   name: Follow
 #   url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: ""
+url_pdf: "uploads/A5_Poster_Group13.jpeg"
 url_slides: ""
 url_video: "https://youtu.be/P5jTWRI6U1A"
 

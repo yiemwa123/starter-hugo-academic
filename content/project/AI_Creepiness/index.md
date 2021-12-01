@@ -6,7 +6,7 @@ tags:
 date: "2020-09-01"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "uploads/creepiness.pdf"
+external_link: ""
 
 # image:
 #   caption: Photo by rawpixel on Unsplash
@@ -18,7 +18,7 @@ links:
 #   name: Follow
 #   url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: ""
+url_pdf: "uploads/creepiness.pdf"
 url_slides: ""
 url_video: ""
 
@@ -29,3 +29,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+This literature summary was written by me and I was mentored under Dr. Qian Yang.
