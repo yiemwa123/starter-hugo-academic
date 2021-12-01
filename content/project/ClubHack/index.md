@@ -29,3 +29,4 @@ url_video: "https://youtu.be/P5jTWRI6U1A"
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+This was a class project done in collaboration with Richard Cho and Ying Yang. We divided the work evenly throughout each step of the design process, from problem ideation, user research, affinity diagramming, brainstorming, ideation, prototyping, heuristic evaluation, and user testing
