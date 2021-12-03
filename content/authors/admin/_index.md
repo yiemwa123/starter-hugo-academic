@@ -65,5 +65,5 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I'm currently a senior at Cornell University studying Information Science. I'm primarily intersted in human-AI interaction (HAI) and making AI more understandable and available to those with no background in ML. I hope to be able to apply this to create impact in social good domains like health, accessibility, and education.\
+I'm currently a senior at Cornell University studying Information Science. I'm primarily intersted in human-AI interaction (HAI) and making AI more understandable and available to those with no background in ML. I hope to be able to apply this to create impact in social good domains, such as health, accessibility, and education.\
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/wang_yichen_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
