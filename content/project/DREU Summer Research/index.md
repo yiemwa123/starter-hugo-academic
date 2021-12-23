@@ -19,7 +19,7 @@ links:
 #   url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: "uploads/finalreport.pdf"
-url_slides: ""
+url_slides: "https://vghc21-anitab.ipostersessions.com/default.aspx?s=40-08-B6-AA-A5-90-64-D9-19-41-97-A1-1E-B4-CA-5C"
 url_video: ""
 
 # Slides (optional).
