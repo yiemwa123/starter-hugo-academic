@@ -40,7 +40,7 @@ experience:
     # company_logo: org-gc
     # location: California
     date_start: '2020-09-01'
-    date_end: ''
+    date_end: '2021-12-01'
     description: |2-
         Courses:
 
