@@ -66,4 +66,4 @@ email: ""
 highlight_name: false
 ---
 I graduated from Cornell University in Dec '21 with a B.S in Information Science. I'm primarily interested in human-AI interaction (HAI) and making AI more understandable and available to those with no background in ML to help people make better decisions. I hope to be able to apply this in social good domains, such as health, accessibility, and education.\
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/wang_yichen_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/wang_yichen_cv.pdf" "newtab" >}}CV{{< /staticref >}} for a list of all my experiences.
