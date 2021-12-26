@@ -29,9 +29,8 @@ experience:
     # location: California
     date_start: '2021-08-01'
     date_end: '2021-12-01'
-    description: 
-      * Worked on project related to understanding users’ perceptions of fairness regarding AI work allocation in teams
-      * Coded a fairness rating scale to be used in a user study
+    description:
+
 
 
   - title: Teaching Assistant
