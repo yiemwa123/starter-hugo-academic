@@ -66,7 +66,7 @@ experience:
     # location: California
     date_start: '2021-05-10'
     date_end: '2021-06-11'
-    description: |2-
+    description: |1-
         * Planned and led a Figma workshop for ~15 high school students
 
   - title: Undergraduate Research Assistant (Designing AI Lab)
