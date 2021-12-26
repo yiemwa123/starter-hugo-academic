@@ -33,7 +33,7 @@ experience:
 
       * Worked on project related to understanding users’ perceptions of fairness regarding AI work allocation in teams
 
-      * Coding a fairness rating scale to be used in a user study
+      * Coded a fairness rating scale to be used in a user study
 
 
   - title: Teaching Assistant
