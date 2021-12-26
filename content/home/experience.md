@@ -31,6 +31,10 @@ experience:
     date_end: ''
     description: |4-
 
+      * Worked on project related to understanding users’ perceptions of fairness regarding AI work allocation in teams
+
+      * Coding a fairness rating scale to be used in a user study
+
 
   - title: Teaching Assistant
     company: Cornell Computing and Information Science
@@ -54,8 +58,8 @@ experience:
     date_start: '2021-06-07'
     date_end: '2021-08-13'
     description: |2-
-        * Using Python to query and process commonsense knowledge concepts and generate questionanswer pairs from text for AISpy, an agent capable of playing “I Spy” games
-        * Designing strategies for incorporating user feedback and formulating output in a way that is
+        * Used Python to query and process commonsense knowledge concepts and generate questionanswer pairs from text for AISpy, an agent capable of playing “I Spy” games
+        * Designed strategies for incorporating user feedback and formulating output in a way that is
           valuable to children when the system fails
 
   - title: Undergraduate Research Assistant (Designing AI Lab)
