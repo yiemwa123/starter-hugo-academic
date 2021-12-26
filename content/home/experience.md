@@ -64,8 +64,8 @@ experience:
     # company_url: ''
     # company_logo: org-x
     # location: California
-    date_start: ''
-    date_end: '2021-05-11'
+    date_start: '2021-05-11'
+    date_end: ''
     description: |1-
         * Planned and led a Figma workshop for ~15 high school students
 
