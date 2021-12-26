@@ -65,7 +65,7 @@ experience:
     # company_logo: org-x
     # location: California
     date_start: '2020-09-01'
-    date_end: '2021-12-10'
+    date_end: '2020-12-10'
     description: |4-
         Project: Understanding the User Experience of Machine Generated Language
         * Conducted literature review on privacy in HCI and creepiness
