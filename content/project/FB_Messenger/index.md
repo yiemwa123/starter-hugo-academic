@@ -29,5 +29,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
-Facebook Messenger is a convenient and easy way to text other people, especially if you already have a Facebook account. However, just because you are able to contact a large number of people easily does not meant that it is easy to stay in touch with people. I set out to explore whether users wanted to reconnect with their old friends on Messenger.
+Coming Soon!
+<!-- Facebook Messenger is a convenient and easy way to text other people, especially if you already have a Facebook account. However, just because you are able to contact a large number of people easily does not meant that it is easy to stay in touch with people. I set out to explore whether users wanted to reconnect with their old friends on Messenger. -->
