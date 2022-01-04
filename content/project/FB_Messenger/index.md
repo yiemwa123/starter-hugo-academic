@@ -32,7 +32,7 @@ slides: ""
 ### Overview
 Facebook Messenger is a convenient and easy way to text other people, especially if you already have a Facebook account. However, just because you are able to contact a large number of people easily does not meant that it is easy to stay in touch with people.
 
-For this project, I created a feature that recommends friends for users to reconnect with and incentivizes the user to reconnect by allowing them to send confetti to an old friend.
+For this project, I created a feature that recommends friends for users to reconnect with and incentivizes the user to reconnect by allowing them to send confetti.
 
 Check out the prototypes in action here:
 
