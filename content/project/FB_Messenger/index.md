@@ -71,7 +71,7 @@ I developed several mid-fidelity user flows for the sender (the one reaching out
 
 
 __Sender__
-![]("uploads/Final 1.jpg")
+![]("./uploads/Final 1.jpg")
 
 * App recommends someone for the user to reconnect with in the form of a pinned chat
 * User sends message
