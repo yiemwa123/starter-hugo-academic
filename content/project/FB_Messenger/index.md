@@ -71,13 +71,13 @@ I developed several mid-fidelity user flows for the sender (the one reaching out
 
 
 __Sender__
-![]("/static/uploads/final1.jpg")
+![](final1.jpg)
 
 * App recommends someone for the user to reconnect with in the form of a pinned chat
 * User sends message
 
 __Receiver__
-![]("./static/uploads/final2.jpg")
+![](final2.jpg)
 
 * User receives message in a separate reconnect inbox
 * User responds to message
@@ -89,7 +89,7 @@ Confetti is cute, fun, and different from the other functionality that Messenger
 After modifying the user flow to allow users to send confetti, I conducted user testing. This is the final flow after incorporating feedback from participants.
 
 __Sender__
-![](./uploads/final.jpg)
+![](final.jpg)
 
 * App recommends people for the user to reconnect with in a separate reconnect inbox
 * User selects user they want to reconnect with
@@ -97,7 +97,7 @@ __Sender__
 * User selects confetti to send
 
 __Receiver__
-![]("uploads/group8.jpg")
+![](group8.jpg)
 
 * User receives message in the separate reconnect inbox
 * User receives message and confetti animation
