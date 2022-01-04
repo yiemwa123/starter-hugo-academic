@@ -44,11 +44,11 @@ I conducted interviews with students who use FB Messenger and asked them questio
 
 * There was a lot of variation in whether people desire to stay in touch with their old friends
 
-About half of the interviewees were content with how they were keeping in touch with old friends, while the other half wished that they could keep in touch with more people. I decided to move forward with this problem space because I still felt that there was value in pursuing this problem space, since relationships vary from person to person and even if some people were content with how things were, there were still many interviewees who wanted to keep in touch with more people.
-
 * Users feel awkward about reaching out to their old friends
 
 * Users are unsure of what to say when the reach out to old friends
+
+About half of the interviewees were content with how they were keeping in touch with old friends, while the other half wished that they could keep in touch with more people. I decided to move forward with this problem space because I still felt that there was value in pursuing this problem space, since relationships vary from person to person and even if some people were content with how things were, there were still many interviewees who wanted to keep in touch with more people.
 
 
 #### So, how do we encourage users to reach out to old friends on Messenger?
