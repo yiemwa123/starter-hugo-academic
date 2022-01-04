@@ -54,11 +54,11 @@ About half of the interviewees were content with how they were keeping in touch 
 #### So, how do we encourage users to reach out to old friends on Messenger?
 
 ### Ideation
-After a brainstorming session with two other friends, we ended up with 3 possible solutions worth exploring
+After a brainstorming session with two other friends, we ended up with 3 possible solutions worth exploring. For each of them, I developed a low-fidelity sketch.
 
 * A reconnect button - users can indicate that they want to reconnect with another user and that user will be notified
 * A guilt-tripping time display - displaying the amount of time that has passed by since you last talked to another user
-* A collaborative game - providing a challenge for the users to complete and discuss together
+* A collaborative game - provide a challenge for the users to complete and discuss together
 
 The idea that I ended up pursuing was the first one because:
 
