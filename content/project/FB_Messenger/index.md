@@ -71,13 +71,13 @@ I developed several mid-fidelity user flows for the sender (the one reaching out
 
 
 __Sender__
-![]("./uploads/Final 1.jpg")
+![]("./uploads/final1.jpg")
 
 * App recommends someone for the user to reconnect with in the form of a pinned chat
 * User sends message
 
 __Receiver__
-![]("uploads/Final 2.jpg")
+![]("uploads/final2.jpg")
 
 * User receives message in a separate reconnect inbox
 * User responds to message
@@ -97,7 +97,7 @@ __Sender__
 * User selects confetti to send
 
 __Receiver__
-![]("uploads/Group 9.jpg")
+![]("uploads/group8.jpg")
 
 * User receives message in the separate reconnect inbox
 * User receives message and confetti animation
