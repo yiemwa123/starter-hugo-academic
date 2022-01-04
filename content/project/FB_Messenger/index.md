@@ -36,8 +36,8 @@ For this project, I created a feature that recommends friends for users to recon
 
 Check out the prototypes in action here:
 
-Sender (the one sending the confetti) - https://youtu.be/KEQg_N0veK8
-Receiver (the one receiving the confetti) - https://youtu.be/TCsz5BJr5j0
+Sender (the one sending the confetti) - ![](sender.gif)
+Receiver (the one receiving the confetti) - ![](receiver.gif)
 
 ### User Research
 I conducted interviews with students who use FB Messenger and asked them questions regarding if/how they reach out and whether they were content with how in touch they are with old friends. The insights that I got were:
