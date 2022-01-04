@@ -89,7 +89,7 @@ Confetti is cute, fun, and different from the other functionality that Messenger
 After modifying the user flow to allow users to send confetti, I conducted user testing. This is the final flow after incorporating feedback from participants.
 
 __Sender__
-![]("uploads/final.jpg")
+![](./uploads/final.jpg)
 
 * App recommends people for the user to reconnect with in a separate reconnect inbox
 * User selects user they want to reconnect with
