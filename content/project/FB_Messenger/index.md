@@ -71,13 +71,13 @@ I developed several mid-fidelity user flows for the sender (the one reaching out
 
 
 __Sender__
-![]("../static/uploads/final1.jpg")
+![]("./static/uploads/final1.jpg")
 
 * App recommends someone for the user to reconnect with in the form of a pinned chat
 * User sends message
 
 __Receiver__
-![]("../static/uploads/final2.jpg")
+![]("./static/uploads/final2.jpg")
 
 * User receives message in a separate reconnect inbox
 * User responds to message
