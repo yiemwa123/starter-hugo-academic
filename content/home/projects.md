@@ -29,8 +29,10 @@ content:
     tag: '*'
   - name: Research
     tag: Research
-  - name: Projects
-    tag: Projects
+  - name: UX Projects
+    tag: UX Projects
+  - name: Code
+    tag: Code
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

@@ -2,7 +2,7 @@
 title: Reconnecting with old friends on FB Messenger
 summary: This is my first UX case study centered around understanding how we can help people reconnect with their old friends through Facebook Messenger
 tags:
-- Projects
+- UX Projects
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
