@@ -35,6 +35,8 @@ __Tool(s)__: Figma
 
 __Role__: Designer
 
+__Other Info__: Class Project for Intro to Digital Product Design
+
 ### Overview
 Facebook Messenger is a convenient and easy way to text other people, especially if you already have a Facebook account. However, just because you are able to contact a large number of people easily does not meant that it is easy to stay in touch with people.
 
