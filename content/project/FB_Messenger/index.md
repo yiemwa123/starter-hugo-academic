@@ -29,11 +29,13 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-### Overview
-Timeline: Feb 2020 - May 2020
-Tool(s): Figma
-Role: Designer
+__Timeline__: Feb 2020 - May 2020
 
+__Tool(s)__: Figma
+
+__Role__: Designer
+
+### Overview
 Facebook Messenger is a convenient and easy way to text other people, especially if you already have a Facebook account. However, just because you are able to contact a large number of people easily does not meant that it is easy to stay in touch with people.
 
 For this project, I created a feature that recommends friends for users to reconnect with and incentivizes the user to reconnect by allowing them to send confetti.
