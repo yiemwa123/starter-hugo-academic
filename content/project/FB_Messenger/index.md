@@ -108,7 +108,7 @@ __Receiver__
 ![](group8.jpg)
 
 * User receives message in the separate reconnect inbox
-* User receives message and confetti animation
+* User views message and confetti animation
 * User responds to the message
 
 ### Reflection
