@@ -38,7 +38,7 @@ Facebook Messenger is a convenient and easy way to text other people, especially
 
 For this project, I created a feature that recommends friends for users to reconnect with and incentivizes the user to reconnect by allowing them to send confetti.
 
-Check out the prototypes in action here:
+Check out the prototypes in action:
 
 Sender (the one sending the confetti) - ![](sender.gif)
 Receiver (the one receiving the confetti) - ![](receiver.gif)
