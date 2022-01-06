@@ -1,6 +1,6 @@
 ---
 title: Reconnecting with old friends on FB Messenger
-summary: This is my first UX case study centered around understanding how we can help people reconnect with their old friends through Facebook Messenger
+summary: This is my first UX case study centered around understanding how we can help people reconnect with their old friends through Facebook Messenger. I was the sole designer for this project but received feedback and mentorship from teaching assistants and classmates along the way.
 tags:
 - UX Projects
 date: "2016-04-27T00:00:00Z"
@@ -30,6 +30,10 @@ url_video: ""
 slides: ""
 ---
 ### Overview
+Timeline: Feb 2020 - May 2020
+Tool(s): Figma
+Role: Designer
+
 Facebook Messenger is a convenient and easy way to text other people, especially if you already have a Facebook account. However, just because you are able to contact a large number of people easily does not meant that it is easy to stay in touch with people.
 
 For this project, I created a feature that recommends friends for users to reconnect with and incentivizes the user to reconnect by allowing them to send confetti.
