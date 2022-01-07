@@ -1,6 +1,6 @@
 ---
 title: Studio Ghibli Movie Catalog
-summary: This one of my first front-end web development projects where I made an interactive Studio Ghibli movie catalog. This was coded on my own.
+summary: This one of my first front-end web development projects where I made an interactive Studio Ghibli movie catalog. This was coded on my own. Please don't delete movies or tags when playing around with the website; otherwise I'll have to go back and add the information again.
 tags:
 - Code
 date: "2020-05-01"
@@ -37,7 +37,7 @@ __Role__: Designer, Developer
 
 __Other Info__: Class Project for Intermediate Design and Programming for the Web
 
-_Note: Please don't delete movies or tags when playing around with the website; otherwise I'll have to go back and add the information again_
+_Note: Please don't delete movies or tags when playing around with the website; otherwise I'll have to go back and add the information again._
 
 ### Requirements for this assignment
 * Design and implement an online photo gallery in PHP
