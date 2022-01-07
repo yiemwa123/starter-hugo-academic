@@ -142,7 +142,7 @@ Modify profile information:
 ![](task44.gif)
 
 ### Usability Testing
-One of the goals of this app is to make navigating the competitive club recruitment process easier, so it was important that we test the ease in which the user can use our app and user satisfaction. The usability metrics we focused on were effectiveness, learnability, error rate, and satisfaction.
+One of the goals of this app is to make navigating the competitive club recruitment process easier, so it was important that we test the ease in which the user can use our app and user satisfaction. The usability metrics we focused on were __effectiveness, learnability, error rate, and satisfaction__.
 
 We recruited 3 users in our target user group to conduct a usability test of our high-fidelity prototype. Based on the user testing session, we identified a list of UX problem instances (UPIs) from our usability testing session. From there, we identified the underlying UX design problems (UDPs) that caused one or more UPIs. 
 
