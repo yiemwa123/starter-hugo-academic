@@ -22,7 +22,6 @@ interests:
 - Artificial Intelligence
 - Social Good
 - Decision-Making
-- Front-end web development
 
 # Education to show in About widget
 education:
@@ -61,10 +60,11 @@ social:
   link: uploads/wang_yichen_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "yw345@cornell.edu"
+email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-Hi! I'm Emma, a recent graduate from Cornell University with a B.S in Information Science with concentrations in User Experience and Interactive Technologies. My past experiences include human-AI interaction research, UX design and research, and front-end web development. 
+Hi! I'm Emma, a recent graduate from Cornell University with a B.S in Information Science. My primary research interests lie in Human-AI Interaction (HAI) and making AI more understandable and available to those with no background in ML to help people make better decisions. I hope to be able to apply this in social good domains, such as health, accessibility, and education. I am more broadly interested in UX design/research and front-end web development.\
+Check out my {{< staticref "uploads/wang_yichen_cv.pdf" "newtab" >}}CV{{< /staticref >}}. 
 <!-- or {{< staticref "uploads/wang_yichen_cv.pdf" "newtab" >}}resumé {{< /staticref >}}. -->
