@@ -58,7 +58,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: static/uploads/wang_yichen_cv.pdf
+  link: 'static/uploads/wang_yichen_cv.pdf'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "yw345@cornell.edu"
