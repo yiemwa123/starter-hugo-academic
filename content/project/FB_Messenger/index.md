@@ -33,7 +33,7 @@ __Timeline__: Feb 2020 - May 2020
 
 __Tool(s)__: Figma
 
-__Role__: Designer
+__Role__: Designer, Researcher
 
 __Other Info__: Class Project for Intro to Digital Product Design
 

@@ -158,3 +158,4 @@ While this app can’t automatically get people accepted into clubs, it can make
 
 Of course, there is always room for improvement. A next step would be to implement the other design changes that we said were not feasible due to the time constraints of the project and conduct another round of user testing. We would also need to consider how club officers would interact with the app, since for the sake of this project, we only focused on designing the interaction for new students who want to join competitive clubs.
 
+_Note: This is a shorter version of an article I wrote on Medium. You can check out the full article [here](https://yiemwang.medium.com/clubhack-navigating-competitive-club-recruitment-at-cornell-2a119a3f618b)_
