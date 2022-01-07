@@ -65,6 +65,6 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-Hi! I'm Emma, a recent graduate from Cornell University with a B.S in Information Science with concentrations in User Experience and Interactive Technologies. My primary research interests lie in human-AI interaction (HAI) and making AI more understandable and available to those with no background in ML to help people make better decisions. I hope to be able to apply this in social good domains, such as health, accessibility, and education.\
+Hi! I'm Emma, a recent graduate from Cornell University with a B.S in Information Science. My primary research interests lie in Human-AI Interaction (HAI) and making AI more understandable and available to those with no background in ML to help people make better decisions. I hope to be able to apply this in social good domains, such as health, accessibility, and education. I am more broadly interested in UX Design/Research and Frontend Web Development.\
 Check out my {{< staticref "uploads/wang_yichen_cv.pdf" "newtab" >}}CV{{< /staticref >}}. 
 <!-- or {{< staticref "uploads/wang_yichen_cv.pdf" "newtab" >}}resumé {{< /staticref >}}. -->
