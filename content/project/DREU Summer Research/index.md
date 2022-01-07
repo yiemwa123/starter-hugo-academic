@@ -1,6 +1,6 @@
 ---
 title: Using Information Retrieval and Machine Learning to Inspire Curiosity Driven Learning For Children
-summary: The report was written by me with guidance from Dr. Elizabeth Murnane, who mentored this project, where I worked on part of an app that can play "I Spy" games with children.
+summary: The report was written by me with guidance from Dr. Elizabeth Murnane, who mentored this project, where I worked on part of an app that can play "I Spy" games with children. I also got the chance to share my work at the 2021 Virtual Grace Hopper Conference.
 tags:
 - Research
 date: "2021-06-07"
