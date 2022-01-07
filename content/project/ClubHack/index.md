@@ -118,7 +118,7 @@ _The user can chat with or set up a meeting with a club officer to learn more ab
 ### Prototyping
 We sketched basic UI screens together and used that for the basis of our paper prototype, which we used to conduct user testing.
 
-You can view the full paper prototype [here](https://youtu.be/X4E9WFbllt0)
+You can view the full paper prototype [here](https://youtu.be/X4E9WFbllt0).
 
 The main changes we decided to make based off user feedback were:
 * Make the menu bar present on all the screens
