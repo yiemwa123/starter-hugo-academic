@@ -39,7 +39,7 @@ __Other Info__: Class Project for Intermediate Design and Programming for the We
 
 _Note: Please don't delete movies or tags when playing around with the website; otherwise I'll have to go back and add the information again._
 
-### Requirements for this assignment
+### Objectives of this assignment
 * Design and implement an online photo gallery in PHP
 * Design an aesthetically pleasing and usable interactive site 
 * Photo gallery should be backed by a database which you will use to store information about the images uploaded to your gallery
