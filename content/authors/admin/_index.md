@@ -22,6 +22,7 @@ interests:
 - Artificial Intelligence
 - Social Good
 - Decision-Making
+- Front-end web development
 
 # Education to show in About widget
 education:
