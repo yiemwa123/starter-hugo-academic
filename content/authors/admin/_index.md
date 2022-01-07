@@ -65,5 +65,5 @@ email: "yw345@cornell.edu"
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-Hi! I'm Emma, a recent graduate from Cornell University with a B.S in Information Science with concentrations in User Experience and Interactive Technologies. My past experiences include human-AI interaction research, UX design and research, and front-end web development. \ 
+Hi! I'm Emma, a recent graduate from Cornell University with a B.S in Information Science with concentrations in User Experience and Interactive Technologies. My past experiences include human-AI interaction research, UX design and research, and front-end web development. 
 <!-- or {{< staticref "uploads/wang_yichen_cv.pdf" "newtab" >}}resumé {{< /staticref >}}. -->
