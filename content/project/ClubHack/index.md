@@ -102,6 +102,7 @@ With the new insight in mind, our group realized that interviewees have made uns
 The design idea we moved forward with was the one mentioned earlier in this article.
 
 __Tasks__:
+
 Pre-Matching Survey
 
 _Users fill out a survey when they set up an account on the app so that the app can generate a list of clubs that match their interests._
