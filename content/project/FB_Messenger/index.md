@@ -90,7 +90,7 @@ __Receiver__
 * User receives message in a separate reconnect inbox
 * User responds to message
 
-However, when I sought feedback from a teaching assistant, she noted that the feature seemed empty since it just separates messages into two inboxes. When users reconnect with someone, it should feel more meaningful since they are essentially rekindling a relationship with someone. This led to the addition of allowing the users to send confetti.
+However, when I sought feedback from a teaching assistant, she noted that the feature seemed empty since it just separates messages into two inboxes. When users reconnect with someone, it should feel more meaningful since they are rekindling a relationship with someone. This led to the addition of allowing the users to send confetti.
 
 Confetti is cute, fun, and different from the other functionality that Messenger offers like stickers and gifs. I thought that confetti could make the interaction feel less awkward by incentivizing reconnecting with old friends. Since this functionality would only be available if the user is reconnecting with someone, it also makes reconnecting seem more meaningful.
 
