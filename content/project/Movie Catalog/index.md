@@ -43,7 +43,7 @@ _Note: Please don't delete movies or tags when playing around with the website; 
 * Design and implement an online photo gallery in PHP
 * Design an aesthetically pleasing and usable interactive site 
 * Photo gallery should be backed by a database which you will use to store information about the images uploaded to your gallery
-* Organize the photos in your gallery by allowing users of your site to tag the photos.
+* Organize the photos in the gallery by allowing users of the site to tag the photos.
 
 I decided to put my own spin on the idea of a photo gallery by turning the website into a collection of Studio Ghibli movies. The photos in my case were the Studio Ghibli movie posters.
 
