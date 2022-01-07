@@ -30,8 +30,11 @@ url_video: "https://youtu.be/P5jTWRI6U1A"
 slides: ""
 ---
 __Timeline__: Sep 2020 - Dec 2020
+
 __Tools__: Figma, Miro
+
 __Role__: Designer, Researcher
+
 __Other Info__: Class Project for Human Computer Interaction Design
 
 ### Overview
