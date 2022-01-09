@@ -57,7 +57,14 @@ I decided to put my own spin on the idea of a photo gallery by turning the websi
 * Add an existing tag to an image, add a new tag to an image, and remove a tag from an image.
 
 ### Reflection
-There definitely could be some improvements to the aesthetics and usability of this website. For instance, having the delete button show up while hovering over the title of the movie or the tags is confusing. I think at the time my thinking was that it is common for users to be able to hover over specific images and more actions would be available. I think I would consider an edit button for each movie and give the user the opportunity to delete the movie on the editing page and modify/delete tags. It would be nice to be able to conduct user testing to see what users might think of this. I would also consider displaying the tags in a different way. For instance, I know that on YouTube, underneath the search bar there is a list of keywords that the user can click on. Lastly, another improvement is in the search functionality; if I could do this over, I would allow the user to be able to search movies without having to type in the whole title; rather if they type a word that matches a word in the movie title, the movie would still show up in the search results. All in all this project was a good way for me to practice my front-end web development and design skills.
+There definitely could be some improvements to the aesthetics and usability of this website. Some major changes that I would make are:
+
+* Creating an edit button for each movie and give the user the opportunity to delete the movie on the editing page and modify/delete tags. Having the delete button show up while hovering over the title of the movie or the tags is confusing. I think at the time my thinking was that it is common for users to be able to hover over specific images and more actions would be available.   
+* Displaying the tags in a different way. For instance, I know that on YouTube, underneath the search bar there is a list of keywords that the user can click on and it will display results for that tag. 
+* Improve the search functionality; if I could do this over, I would allow the user to be able to search movies without having to type in the whole title; rather if they type a word that matches a word in the movie title, the movie would still show up in the search results. 
+* In general, it would be nice to be able to conduct user testing to see what users might think of these changes and the overall usability and aesthetics of my website.
+
+All in all this project was a good way for me to practice my front-end web development and design skills.
 
 
 
