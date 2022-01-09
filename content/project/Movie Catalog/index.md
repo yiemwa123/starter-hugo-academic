@@ -56,6 +56,10 @@ I decided to put my own spin on the idea of a photo gallery by turning the websi
 * View all tags at once.
 * Add an existing tag to an image, add a new tag to an image, and remove a tag from an image.
 
+__Search__
+
+![](search.gif)
+
 ### Reflection
 There definitely could be some improvements to the aesthetics and usability of this website. Some major changes that I would make are:
 
