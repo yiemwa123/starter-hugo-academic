@@ -1,6 +1,6 @@
 ---
 title: Studio Ghibli Movie Catalog
-summary: This one of my first front-end web development projects where I made an interactive Studio Ghibli movie catalog. This was coded on my own. Please don't delete movies or tags when playing around with the website; otherwise I'll have to go back and add the information again.
+summary: This one of my first front-end web development projects where I made an interactive Studio Ghibli movie catalog (as you might be able to tell from my current profile picture, I am a huge Studio Ghibli fan :)). This was coded on my own. Please don't delete movies or tags when playing around with the website; otherwise I'll have to go back and add the information again.
 tags:
 - Code
 date: "2020-05-01"
@@ -59,10 +59,10 @@ I decided to put my own spin on the idea of a photo gallery by turning the websi
 ### Reflection
 There definitely could be some improvements to the aesthetics and usability of this website. Some major changes that I would make are:
 
-* Creating an edit button for each movie and give the user the opportunity to delete the movie on the editing page and modify/delete tags. Having the delete button show up while hovering over the title of the movie or the tags is confusing. I think at the time my thinking was that it is common for users to be able to hover over specific images and more actions would be available.   
-* Displaying the tags in a different way. For instance, I know that on YouTube, underneath the search bar there is a list of keywords that the user can click on and it will display results for that tag. 
-* Improve the search functionality; if I could do this over, I would allow the user to be able to search movies without having to type in the whole title; rather if they type a word that matches a word in the movie title, the movie would still show up in the search results. 
-* In general, it would be nice to be able to conduct user testing to see what users might think of these changes and the overall usability and aesthetics of my website.
+* __Create an edit button for each movie and give the user the opportunity to delete the movie on the editing page and modify/delete tags.__ Having the delete button show up while hovering over the title of the movie or the tags is confusing. I think at the time my thinking was that it is common for users to be able to hover over specific images and more actions would be available.   
+* __Display the tags differently.__ For instance, I know that on YouTube, underneath the search bar there is a list of keywords that the user can click on and it will display results for that tag. 
+* __Improve the search functionality.__ If I could do this over, I would allow the user to be able to search movies without having to type in the whole title; rather if they type a word that matches a word in the movie title, the movie would still show up in the search results. 
+* __Conduct user testing__ to see what users might think of these changes and the overall usability and aesthetics of my website.
 
 All in all this project was a good way for me to practice my front-end web development and design skills.
 
