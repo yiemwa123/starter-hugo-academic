@@ -60,11 +60,11 @@ __Search__
 
 ![](search.gif)
 
-__Add data__
+__Add movie__
 
 ![](add.gif)
 
-__Delete data__
+__Deleting and adding tags, deleting movie entry__
 
 ![](delete.gif)
 
