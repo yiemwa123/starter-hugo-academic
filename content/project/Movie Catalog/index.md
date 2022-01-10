@@ -76,7 +76,7 @@ There definitely could be some improvements to the aesthetics and usability of t
 * __Improve the search functionality.__ If I could do this over, I would allow the user to be able to search movies without having to type in the whole title; rather if they type a word that matches a word in the movie title, the movie would still show up in the search results. 
 * __Conduct user testing__ to see what users might think of these changes and the overall usability and aesthetics of my website.
 
-All in all this project was a good way for me to practice my front-end web development and design skills.
+All in all, this project was a good way for me to practice my front-end web development and design skills.
 
 
 
