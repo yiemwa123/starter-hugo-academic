@@ -60,11 +60,19 @@ __Search__
 
 ![](search.gif)
 
+__Add data__
+
+![](add.gif)
+
+__Delete data__
+
+![](delete.gif)
+
 ### Reflection
 There definitely could be some improvements to the aesthetics and usability of this website. Some major changes that I would make are:
 
 * __Create an edit button for each movie and give the user the opportunity to delete the movie on the editing page and modify/delete tags.__ Having the delete button show up while hovering over the title of the movie or the tags is confusing. I think at the time my thinking was that it is common for users to be able to hover over specific images and more actions would be available.   
-* __Display the tags differently.__ For instance, I know that on YouTube, underneath the search bar there is a list of keywords that the user can click on and it will display results for that tag. 
+* __Display the tags differently.__ For instance, on YouTube, underneath the search bar there is a list of keywords that the user can click on and it will display results for that tag. 
 * __Improve the search functionality.__ If I could do this over, I would allow the user to be able to search movies without having to type in the whole title; rather if they type a word that matches a word in the movie title, the movie would still show up in the search results. 
 * __Conduct user testing__ to see what users might think of these changes and the overall usability and aesthetics of my website.
 
