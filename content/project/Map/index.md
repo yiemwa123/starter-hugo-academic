@@ -50,7 +50,11 @@ _The user can zoom in an out of the map by scrolling and clicking on a state. To
 * Tooltip (clicking) that displays companies, average salaries, and city
 _When the user clicks on a city, it will display the companies with headquarters at that location, average salary at that location, and cost of living in that state._
 
-<!-- ### Reflection
+### Reflection
 Some potential improvements to this visualization are:
 
-* __More data/better data cleaning__.  -->
+* __More data/better data cleaning__. The data provided by the map is rather limiting since it only displays companies with headquarters in those areas even though Fortune 1000 companies have offices in many other cities. The drawback of adding more cities would be that the map gets crowded, making it hard to extract information. It also would have been nice to have the cost of living of the city rather than just the state since cities within the same state can have vastly different costs of living. Some of our data can be cleaned better/researched better. For instance, our map displays Red Hat and IBM separately even though the parent company of Red Hat is IBM
+
+* __Tooltip position__. The position of the tooltip can be a bit awkward at times and it sometimes covers up the other cities. However, as we were coding it, we found it difficult to adjust the position of the tooltip dynamically as the user is interacting with the map. If we had more time, we should certainly figure out a way to position the tooltip better.
+
+* __Filtering cities based on salary and cost of living__. As mentioned before, overcrowding could be an issue if we decided to add more cities. One way we could combat this is if we allowed users to filter cities based on what salaries were being offered and cost of living.
