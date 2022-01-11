@@ -65,8 +65,12 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-Hi! I'm Emma, a recent graduate from Cornell University with a B.S in Information Science. My past experiences span human-AI interaction research, UX design and research, and front-end web development. Please check out the details of my work below and feel free to contact me!
+Hi! I'm Emma, a recent graduate from Cornell University with a B.S in Information Science. My past experiences span human-AI interaction research, UX design and research, and front-end web development. Please take a look at the details of my work below and feel free to contact me!
+
+<!-- _Here are my {{< staticref "uploads/wang_yichen_resumeUXR.pdf" "newtab" >}} UX research {{< /staticref >}} or {{< staticref "uploads/wang_yichen_resumeUXD.pdf" "newtab" >}} UX design {{< /staticref >}} resumés._ For a full list of my experiences, check out my CV on the lefthand side. -->
+
 <!-- or {{< staticref "uploads/wang_yichen_cv.pdf" "newtab" >}}resumé {{< /staticref >}}. -->
 
+<!-- Currently a research assistant for the Designing-AI Lab at Cornell. -->
 
 <!-- comment -->
