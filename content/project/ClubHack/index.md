@@ -20,7 +20,7 @@ links:
 url_code: ""
 url_pdf: "uploads/A5_Poster_Group13.jpeg"
 url_slides: ""
-url_video: "https://youtu.be/P5jTWRI6U1A"
+url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
