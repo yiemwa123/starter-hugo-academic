@@ -37,7 +37,9 @@ __Role__: Designer, Developer
 
 __Other Info__: Class Project for Data-Driven Web Applications
 
-### Objectives of this assignment
+Coming soon! 
+
+<!-- ### Objectives of this assignment
 * Create an interactive data visualization
 * Make use of dynamic elements
 * Integrate multiple data sources
@@ -60,4 +62,4 @@ Some potential improvements to this visualization are:
 
 * __Tooltip position__. The position of the tooltip can be a bit awkward at times and it sometimes covers up the other cities. However, as we were coding it, we found it difficult to adjust the position of the tooltip dynamically as the user is interacting with the map. If we had more time, we should certainly figure out a way to position the tooltip better.
 
-* __Filtering cities based on salary and cost of living__. As mentioned before, overcrowding could be an issue if we decided to add more cities. One way we could combat this is if we allowed users to filter cities based on what salaries were being offered and cost of living.
+* __Filtering cities based on salary and cost of living__. As mentioned before, overcrowding could be an issue if we decided to add more cities. One way we could combat this is if we allowed users to filter cities based on what salaries were being offered and cost of living. -->
