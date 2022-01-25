@@ -20,8 +20,8 @@ organizations:
 interests:
 - Human-Computer Interaction
 - Artificial Intelligence
-- Social Good
-- Decision-Making
+# - Social Good
+# - Decision-Making
 
 # Education to show in About widget
 education:
