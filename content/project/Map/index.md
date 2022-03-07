@@ -49,7 +49,7 @@ The inspiration for this data visualization came from the idea that people may n
 
 _The user can zoom in an out of the map by scrolling and clicking on a state. To zoom out, the user can scroll or click the zoom out button which takes them back to the original view of the map. The user can pan the map by clicking and dragging._
 
-* Tooltip (clicking) that displays companies, average salaries, and city
+* Tooltip (clicking) that displays companies, average salaries, and cost of living
 
 _When the user clicks on a city, it will display the companies with headquarters at that location, average salary at that location, and cost of living in that state._
 
