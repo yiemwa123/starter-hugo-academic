@@ -18,7 +18,7 @@ links:
 #   name: Follow
 #   url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: "uploads/A5_Poster_Group13.jpeg"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
