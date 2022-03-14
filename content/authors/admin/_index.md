@@ -65,6 +65,6 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-Hi! I'm Emma, a research assistant at the Designing-AI Lab at Cornell working on the intersection of AI and digital agriculture. I completed my undergrad at Cornell, where I studied Information Science. My past experiences span human-AI interaction research, UX design and research, and front-end web development. Please take a look at the details of my work below and feel free to contact me!
+Hi! I'm Emma, a research assistant at the Designing-AI Lab at Cornell working on the intersection of AI and digital agriculture. I also completed my undergrad at Cornell, where I studied Information Science. My past experiences span human-AI interaction research, UX design and research, and front-end web development. Please take a look at the details of my work below and feel free to contact me!
 
 <!-- comment -->
